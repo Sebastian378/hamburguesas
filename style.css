@@ -1,0 +1,30 @@
+.footer1{
+    width: 100%;
+    height: 150px;
+    margin-top: auto;
+    
+}
+
+.mode-black{
+    background-color: black;
+}
+
+.mode-black .card{
+    background-color: gray;
+}
+
+.theme-dark{
+    background-color: #555;
+}
+
+.theme-light{
+    background-color: white;
+}
+
+.theme-dark .card{
+    background-color: #333;
+}
+
+.theme-dark .card p{
+    color: white;
+}
